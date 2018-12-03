@@ -1,0 +1,5 @@
+*.lock
+AgileTest/.vs/AgileTest/v15/
+AgileTest/.vs/
+AgileTest/Presintation/bin/
+AgileTest/Presintation/obj/
